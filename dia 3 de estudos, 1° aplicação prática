@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head> Olá mundo!.</head>
+<body>
+    <h2>Tudo que <strong>aprendi</strong> até agora com HTML</h2>
+    <p>Toda sequência que eu, como um novato a apenas 2 dias consegui absorver até agora</p>
+    <img src="https://i.pinimg.com/564x/4b/73/dc/4b73dc1055a27d3a5b9e2a37be344b41.jpg" width="200" height="200" alt="um cara bem apelão".>
+<h3> como inserir um link</h3>
+    <h4>Inserir links como <a href="https://www.youtube.com/watch?v=wwGQFQiNbes" target="_blank">este</a> Pode ser um pouco complicado de entender, mas é possível após entender a sequência a ser inserida com href.</h4>
+<title>Como inserir botões</title>
+    <a href="https://www.youtube.com/watch?v=4XKGfziuw5c" target="_blank"><button>Aperte aqui!</button></a> <p>Botões como este podem ser inseridos ao comando (button)</p>
+<fieldset>
+    <legend>Entendeu até agora?</legend>
+    <input type="radio" value="Sim" name="escolha" id="S"><label for="S">Sim</label><br>
+    <input type="radio" value="Não" name="escolha" id="N"><label for="N">Não</label><br>
+    <input type="radio" disabled="true" name="escolha" id="NP"><label for="NP">Não sou Capaz</label>
+</fieldset>
+<img src="https://media1.tenor.com/m/4vRPhRsG7goAAAAd/dancing-kid-kid-in-club.gif" width="200" height="200" alt="tenha um ótimo ano">
+<footer>
+    Feito por<a href="https://www.linkedin.com/in/luiz-claudio-de-siqueira-ferreira-junior-661863235/" target="_blank">Luiz Ferreira.</a> 
+</footer>
+
+</body>
+</html>
+
